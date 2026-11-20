@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+private/*
+!private/.gitkeep
+data/
+*.sqlite*
+public/birthday/assets/user/
+public/birthday/config.js
+public/birthday/card-sealed.js
+config.local.json
+.DS_Store
+.railway/
+test-results/

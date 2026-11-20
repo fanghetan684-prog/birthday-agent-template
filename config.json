@@ -1,0 +1,13 @@
+{
+  "name":"今天的主角","nickname":"亲爱的朋友","age":20,"sender":"一直在的朋友们",
+  "intro":"把一起走过的日子，做成一份可以打开的礼物。",
+  "finalWish":"愿你被爱包围，也有勇气奔向喜欢的生活。",
+  "photos":[{"src":"assets/demo-sunset.svg","caption":"那些一起等过的日落"},{"src":"assets/demo-mountain.svg","caption":"下一次出发，也一起吧"},{"src":"assets/demo-night.svg","caption":"普通的日子，因为你值得纪念"}],
+  "childPhoto":"assets/demo-child.svg",
+  "childMessages":["祝长大后的我生日快乐！","看来你已经变成了不起的大人了！","你现在可以天天做喜欢的事了，对吧？","如果觉得累，就抱抱小时候的自己。"],
+  "cakeWishes":["生日快乐，亲爱的你！","吃得香，睡得好。","一起笑过的瞬间，都值得收藏。","愿想做的事，慢慢做到。","新的一岁，开心也勇敢。","所有祝福，都给你。"],
+  "giftImage":"assets/demo-gift.svg","giftCaption":"这里可以换成你准备的礼物、手写贺卡或惊喜说明。",
+  "music":{"src":"","title":"背景音乐","volume":0.5},
+  "privateCard":{"enabled":false,"question":"只有我们知道的小问题是？"},
+  "signatures":{"enabled":true}
+}
